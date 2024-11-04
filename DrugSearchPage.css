@@ -1,0 +1,7 @@
+.side-effect-box {
+  display: flex;
+  width: 30%;
+  border: solid 1px black;
+  margin-left: 10px;
+  text-indent: 50px;
+}
